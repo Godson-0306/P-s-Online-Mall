@@ -1,0 +1,12 @@
+P's Online
+
+Product recommendations
+Recently viewed products
+Related products
+Newsletter
+WhatsApp support
+Dark mode (optional)
+Product image zoom
+Multiple product images
+Product variants (size, color)
+Stock managemen
